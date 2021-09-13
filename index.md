@@ -20,7 +20,7 @@ info:
  class_meets_where:  ''
  review_sessions_when: Thursdays at 7pm 
  review_sessions_where: 'https://asu.zoom.us/j/6829300585'
- discussion_board_url: 'https://ds4ps.org/cpp-525-fall-2020/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-525-template/help/'
 
 instructor:
 -  name: David Selby, PhD
